@@ -1,0 +1,14 @@
+{
+  "PRICES": {
+    "STANDARD_JOB": 2000,
+    "FEATURED_48H": 5000,
+    "BOOST_24H": 500,
+    "VERIFIED_BADGE": 1500,
+    "SPONSORED": 3000,
+    "PINNED_48H": 5000,
+    "DEALS": 2000,
+    "SUBSCRIPTION": 3000
+  },
+  "DISCLAIMER": "—\nDisclaimer: All business is at your own risk. DISPATCH RIDERS HUB NIGERIA is a connection platform only and is not liable for disputes or discrepancies. Please vet partners before engaging.",
+  "TIMEZONE": "Africa/Lagos"
+}
